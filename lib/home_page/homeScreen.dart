@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:ksrtc_app/homeScreen/widgets/contaWidgets.dart';
-import 'package:ksrtc_app/seat/seat.dart';
+import 'package:ksrtc_app/home_page/widgets/contaWidgets.dart';
+import 'package:ksrtc_app/seat_page/seat.dart';
 
 
 class HomeScreen extends StatelessWidget {

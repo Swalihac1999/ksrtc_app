@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:ksrtc_app/homeScreen/homeScreen.dart';
-import 'package:ksrtc_app/loginScreen/widgets/loginBannerr.dart';
+import 'package:ksrtc_app/home_page/homeScreen.dart';
+import 'package:ksrtc_app/login_Screen/widgets/loginBannerr.dart';
 
 class LoginScreen extends StatelessWidget {
   LoginScreen({super.key});

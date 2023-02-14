@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ksrtc_app/seat/widgets/seating.dart';
+import 'package:ksrtc_app/seat_page/widgets/seating.dart';
 
 
 class Seat extends StatelessWidget {

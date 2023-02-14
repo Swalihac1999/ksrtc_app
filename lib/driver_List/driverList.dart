@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:ksrtc_app/driverList/addDriver.dart';
+import 'package:ksrtc_app/driver_List/addDriver.dart';
 
 class DriverList extends StatelessWidget {
   const DriverList({super.key});

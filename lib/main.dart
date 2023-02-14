@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ksrtc_app/firstPage/firstPage.dart';
+import 'package:ksrtc_app/logo_page/firstPage.dart';
 
 void main() {
   runApp(const MyApp());

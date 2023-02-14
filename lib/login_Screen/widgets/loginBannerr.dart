@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ksrtc_app/loginScreen/widgets/loginBannerColor.dart';
+import 'package:ksrtc_app/login_Screen/widgets/loginBannerColor.dart';
 
 class TopStackWelcomeWidget extends StatelessWidget {
   const TopStackWelcomeWidget({
